@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/com-nopcommerce-sw-3/jars/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/com-nopcommerce-sw-3/jars/junit-4.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/com-nopcommerce-sw-3/jars/selenium-server-4.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
